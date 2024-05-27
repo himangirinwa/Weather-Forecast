@@ -1,0 +1,281 @@
+{
+  "location": {
+    "code": "DE0001020",
+    "name": "Berlin",
+    "timezone": "Europe/Berlin",
+    "coordinates": {
+      "latitude": 52.5244,
+      "longitude": 13.4105
+    }
+  },
+  "forecast": {
+    "items": [
+      {
+        "snowHeight": 0,
+        "sunHours": 1,
+        "wind": {
+          "unit": "km/h",
+          "direction": "S\u00FCdwind",
+          "significationWind": false,
+          "gusts": {
+            "value": 26,
+            "text": null
+          },
+          "min": 2,
+          "max": 7,
+          "avg": 0
+        },
+        "freshSnow": 0,
+        "dateWithTimezone": "2024-05-26T22:00:00Z",
+        "temptrature": null
+      },
+      {
+        "snowHeight": 0,
+        "sunHours": 3,
+        "wind": {
+          "unit": "km/h",
+          "direction": "Westwind",
+          "significationWind": false,
+          "gusts": {
+            "value": 32,
+            "text": null
+          },
+          "min": 1,
+          "max": 12,
+          "avg": 0
+        },
+        "freshSnow": 0,
+        "dateWithTimezone": "2024-05-27T22:00:00Z",
+        "temptrature": null
+      },
+      {
+        "snowHeight": 0,
+        "sunHours": 2,
+        "wind": {
+          "unit": "km/h",
+          "direction": "S\u00FCdwind",
+          "significationWind": false,
+          "gusts": {
+            "value": 38,
+            "text": null
+          },
+          "min": 4,
+          "max": 14,
+          "avg": 0
+        },
+        "freshSnow": 0,
+        "dateWithTimezone": "2024-05-28T22:00:00Z",
+        "temptrature": null
+      },
+      {
+        "snowHeight": 0,
+        "sunHours": 1,
+        "wind": {
+          "unit": "km/h",
+          "direction": "S\u00FCdwind",
+          "significationWind": false,
+          "gusts": {
+            "value": 24,
+            "text": null
+          },
+          "min": 3,
+          "max": 9,
+          "avg": 0
+        },
+        "freshSnow": 0,
+        "dateWithTimezone": "2024-05-29T22:00:00Z",
+        "temptrature": null
+      },
+      {
+        "snowHeight": 0,
+        "sunHours": 1,
+        "wind": {
+          "unit": "km/h",
+          "direction": "Nordwestwind",
+          "significationWind": false,
+          "gusts": {
+            "value": 25,
+            "text": null
+          },
+          "min": 2,
+          "max": 9,
+          "avg": 0
+        },
+        "freshSnow": 0,
+        "dateWithTimezone": "2024-05-30T22:00:00Z",
+        "temptrature": null
+      },
+      {
+        "snowHeight": 0,
+        "sunHours": 4,
+        "wind": {
+          "unit": "km/h",
+          "direction": "Nordwind",
+          "significationWind": false,
+          "gusts": {
+            "value": 33,
+            "text": null
+          },
+          "min": 8,
+          "max": 13,
+          "avg": 0
+        },
+        "freshSnow": 0,
+        "dateWithTimezone": "2024-05-31T22:00:00Z",
+        "temptrature": null
+      },
+      {
+        "snowHeight": 0,
+        "sunHours": 8,
+        "wind": {
+          "unit": "km/h",
+          "direction": "Nordwestwind",
+          "significationWind": false,
+          "gusts": {
+            "value": 32,
+            "text": null
+          },
+          "min": 11,
+          "max": 15,
+          "avg": 0
+        },
+        "freshSnow": 0,
+        "dateWithTimezone": "2024-06-01T22:00:00Z",
+        "temptrature": null
+      },
+      {
+        "snowHeight": 0,
+        "sunHours": 9,
+        "wind": {
+          "unit": "km/h",
+          "direction": "Nordwestwind",
+          "significationWind": false,
+          "gusts": {
+            "value": 32,
+            "text": null
+          },
+          "min": 11,
+          "max": 15,
+          "avg": 0
+        },
+        "freshSnow": 0,
+        "dateWithTimezone": "2024-06-02T22:00:00Z",
+        "temptrature": null
+      },
+      {
+        "snowHeight": 0,
+        "sunHours": 9,
+        "wind": {
+          "unit": "km/h",
+          "direction": "Nordwestwind",
+          "significationWind": false,
+          "gusts": {
+            "value": 30,
+            "text": null
+          },
+          "min": 11,
+          "max": 13,
+          "avg": 0
+        },
+        "freshSnow": 0,
+        "dateWithTimezone": "2024-06-03T22:00:00Z",
+        "temptrature": null
+      },
+      {
+        "snowHeight": 0,
+        "sunHours": 8,
+        "wind": {
+          "unit": "km/h",
+          "direction": "Westwind",
+          "significationWind": false,
+          "gusts": {
+            "value": 30,
+            "text": null
+          },
+          "min": 11,
+          "max": 13,
+          "avg": 0
+        },
+        "freshSnow": 0,
+        "dateWithTimezone": "2024-06-04T22:00:00Z",
+        "temptrature": null
+      },
+      {
+        "snowHeight": 0,
+        "sunHours": 8,
+        "wind": {
+          "unit": "km/h",
+          "direction": "Westwind",
+          "significationWind": false,
+          "gusts": {
+            "value": 32,
+            "text": null
+          },
+          "min": 8,
+          "max": 15,
+          "avg": 0
+        },
+        "freshSnow": 0,
+        "dateWithTimezone": "2024-06-05T22:00:00Z",
+        "temptrature": null
+      },
+      {
+        "snowHeight": 0,
+        "sunHours": 7,
+        "wind": {
+          "unit": "km/h",
+          "direction": "Nordwind",
+          "significationWind": false,
+          "gusts": {
+            "value": 0,
+            "text": null
+          },
+          "min": 6,
+          "max": 20,
+          "avg": 0
+        },
+        "freshSnow": 0,
+        "dateWithTimezone": "2024-06-06T22:00:00Z",
+        "temptrature": null
+      },
+      {
+        "snowHeight": 0,
+        "sunHours": 3,
+        "wind": {
+          "unit": "km/h",
+          "direction": "S\u00FCdwind",
+          "significationWind": false,
+          "gusts": {
+            "value": 0,
+            "text": null
+          },
+          "min": 4,
+          "max": 12,
+          "avg": 0
+        },
+        "freshSnow": 0,
+        "dateWithTimezone": "2024-06-07T22:00:00Z",
+        "temptrature": null
+      },
+      {
+        "snowHeight": 0,
+        "sunHours": 6,
+        "wind": {
+          "unit": "km/h",
+          "direction": "Westwind",
+          "significationWind": false,
+          "gusts": {
+            "value": 0,
+            "text": null
+          },
+          "min": 8,
+          "max": 25,
+          "avg": 0
+        },
+        "freshSnow": 0,
+        "dateWithTimezone": "2024-06-08T22:00:00Z",
+        "temptrature": null
+      }
+    ]
+  }
+}
